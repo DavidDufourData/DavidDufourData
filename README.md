@@ -1,4 +1,4 @@
-<h1 align="center">👋 David DUFOUR — Data Analyst</h1>
+<h1 align="center">David DUFOUR — Data Analyst</h1>
 <h3 align="center">
 Python • SQL • Power BI • KNIME • Analyse & Modélisation  
 23 ans d’expérience secteur bancaire • Reconversion Data
@@ -66,8 +66,4 @@ Des opportunités pour :
 📧 daviddufourbnp@gmail.com  
 
 ---
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidDufourAnalytics&theme=calm" alt="Streak Stats"/>
-</p>
 
