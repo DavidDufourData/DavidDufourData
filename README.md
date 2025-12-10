@@ -1,75 +1,115 @@
-<h1 align="center">👋 David DUFOUR — Data Analyst</h1>
-<h3 align="center">Python • SQL • Power BI • Machine Learning • KNIME  
-<br>Spécialisation : Analyse & Pilotage dans le secteur bancaire</h3>
+<h1 align="center">🎨 David DUFOUR — Data Visualization & Data Analyst</h1>
+<h3 align="center">
+Transforming data into clear, compelling & actionable stories  
+<br>
+📊 Power BI • 📈 Python • 🧩 SQL • 🌀 KNIME • 🎨 Storytelling & Dashboard Design
+</h3>
 
 ---
 
-## ✨ À propos de moi
+## 🌟 Qui suis-je ?
 
-Je suis **David DUFOUR**, Data Analyst en reconversion après **23 années d’expérience dans le secteur bancaire**.  
-Cette expérience m’a permis de développer :
+Je suis **David DUFOUR**, Data Analyst passionné par la **Data Visualization**, spécialisé dans la création de dashboards intuitifs, efficaces et esthétiques.
 
-🔹 une compréhension fine des processus bancaires  
-🔹 une forte culture du risque et de la conformité  
-🔹 une rigueur analytique orientée qualité et précision  
-🔹 une capacité à traduire les besoins métiers en solutions data
+Après **23 ans dans le secteur bancaire**, j’ai développé une sensibilité particulière pour :  
+✨ la clarté des indicateurs  
+✨ la prise de décision rapide  
+✨ la compréhension business  
+✨ la visualisation pédagogique et orientée action  
 
-Aujourd’hui, j’allie cette expertise métier à des compétences techniques solides pour **mettre la donnée au service de la performance, de la sécurité et de la prise de décision**.
-
----
-
-## 🚀 Compétences & Stack Technique
-
-### 🔧 Langages & Analyse  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 📊 Visualisation & Pilotage  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-Création de dashboards métiers : risques, activité, performance, conformité.
-
-### 🤖 Machine Learning  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### 🔁 Automatisation & Workflows  
-![KNIME](https://img.shields.io/badge/KNIME-FFE000?style=for-the-badge&logo=knime&logoColor=black)
-
-### 🏦 Expertise Métier Bancaire  
-- Analyse et pilotage opérationnel  
-- Vision risques et conformité  
-- Gestion des activités sensibles et réglementaires  
-- Compréhension des processus bancaires (front/middle/back office)
+Je transforme aujourd’hui les données complexes en **visualisations percutantes**, simples à exploiter… et agréables à regarder 😊.
 
 ---
 
-## 📚 Projets phares
+## 🎨 Ma spécialité : la DataViz
 
-🔹 **Analyse e-commerce** – KPIs, dataviz, storytelling  
-🔹 **Requêtes SQL avancées** – modélisation & extraction métier  
-🔹 **Étude de santé publique** – analyse statistique Python  
-🔹 **Dashboard Power BI** – pilotage & indicateurs  
-🔹 **Segmentation ACP & Clustering** – étude de marché  
-🔹 **Machine Learning** – détection de faux billets  
-🔹 **Workflow KNIME + Python** – automatisation analytique  
+### 🔥 Outils & technologies
+<table>
+<tr>
+<td>
+
+### 📊 Power BI  
+Création de dashboards dynamiques :  
+✔ KPIs  
+✔ segmentation clients  
+✔ performance opérationnelle  
+✔ analyse d'activité bancaire  
+✔ design UI/UX orienté lisibilité  
+
+</td>
+<td>
+
+### 🐍 Python (Visualisation)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
+
+Graphiques interactifs, heatmaps, corrélations, storytelling visuel.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Mes super-pouvoirs DataViz
+
+💡 **Transformer des données brutes en visuels impactants**  
+🎯 **Construire des dashboards orientés business & décision**  
+🧩 **Simplifier l'information en la rendant intuitive**  
+🎨 **Créer des visuels harmonieux, lisibles et engageants**  
+📐 **Appliquer des principes UI/UX (contrastes, hiérarchie visuelle, couleurs)**  
+📈 **Mettre en scène les insights grâce au storytelling**  
+
+---
+
+## 🚀 Projets DataViz mis en avant
+
+### 📌 **Dashboard Power BI – Pilotage opérationnel**  
+KPIs clés, tendances, comparaison N/N-1, alerts, segmentation.
+
+### 📌 **Étude e-commerce – Storytelling visuel**  
+Analyse complète des ventes avec scénarisation graphique.
+
+### 📌 **Machine Learning – Faux billets**  
+Visualisation des features importantes + matrice de confusion stylée.
+
+### 📌 **ACP & Clustering – Étude de marché**  
+Graphiques interactifs, clusters colorés, représentations 2D/3D.
+
+### 📌 **Mapping Process – Workflow KNIME**  
+Visualisation des flux, automatisation et reporting.
 
 ➡️ **Portfolio complet :**  
-https://DavidDufourAnalytics.github.io/Portfolio/
+🎨 https://DavidDufourAnalytics.github.io/Portfolio/
 
 ---
 
 ## 🎯 Ce que je recherche
 
-Des opportunités dans lesquelles je peux :  
-✔️ valoriser et analyser des données métier  
-✔️ accompagner la prise de décision  
-✔️ concevoir des outils de pilotage (Power BI, SQL)  
-✔️ renforcer l'efficacité des équipes data & métier  
-✔️ évoluer dans un environnement bancaire ou assurantiel
+Des missions où je peux :
+
+✔ Construire des dashboards visuels & intuitifs  
+✔ Améliorer la lisibilité des données  
+✔ Mettre en scène les insights  
+✔ Collaborer avec les équipes métier & IT  
+✔ Rendre la donnée accessible à tous  
 
 ---
 
-## 📬 Contact  
-📧 **daviddufourbnp@gmail.com**
+## 📬 Contact
+
+📧 daviddufourbnp@gmail.com  
+
+---
+
+## 💫 Petit bonus visuel
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidDufourAnalytics&theme=tokyonight" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDufourAnalytics&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
 
