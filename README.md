@@ -73,7 +73,9 @@ Des opportunités pour :
 
 ## 📬 Contact
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>](https://www.linkedin.com/in/david-d-abb31b152/) **David DUFOUR**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" style="vertical-align:middle;"/>  
+[**David DUFOUR**](https://www.linkedin.com/in/david-d-abb31b152/) 
 
 📧 daviddufourbnp@gmail.com
+
 
