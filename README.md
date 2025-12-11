@@ -73,8 +73,7 @@ Des opportunités pour :
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/david-d-abb31b152/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/david-d-abb31b152/)
 📧 daviddufourbnp@gmail.com
 
----
 
