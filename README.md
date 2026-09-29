@@ -2,9 +2,9 @@
 
 # David DUFOUR
 
-### Data Analyst · Banque & données · Gestion de projet
+### Data Analyst · Banque privée · Gestion de projet
 
-**23 ans d’expérience bancaire** · Une approche métier de la Data
+**23 ans d’expérience bancaire** · De la connaissance métier à l’analyse de données
 
 [![Portfolio](https://img.shields.io/badge/Explorer_mon_portfolio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://daviddufourdata.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/Échanger_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-d-abb31b152/)
@@ -13,31 +13,25 @@
 
 ---
 
-## 👋 Mon profil
+## 👋 Mon parcours
 
-Après plus de **23 ans dans le secteur bancaire**, j’ai évolué vers le métier de **Data Analyst**. J’aime faire le lien entre les besoins des équipes métier et les données : comprendre une demande, construire des indicateurs fiables et rendre les résultats faciles à utiliser.
+Après plus de **23 ans dans la banque**, j’ai suivi une formation de **Data Analyst** avant de prendre un nouveau poste dans l’univers de la **banque privée**. J’associe désormais ma connaissance des métiers bancaires à l’analyse de données pour construire des indicateurs fiables et utiles aux équipes.
 
-> **Ma façon de travailler :** écouter le besoin → structurer l’analyse → contrôler les données → partager des résultats clairs.
+> **Mon fil conducteur :** comprendre le besoin → structurer l’analyse → contrôler les données → partager des résultats clairs.
 
-## 🧰 Mes outils
+## 🎓 01 · Ce que j’ai acquis en formation
 
-| Analyser | Préparer et automatiser | Visualiser |
-|:---|:---|:---|
-| SQL · Oracle SQL Developer | Dataiku · Alteryx · KNIME | Power BI · Tableau |
-| Python · Pandas · Jupyter | Nettoyage et contrôle qualité | Tableaux de bord · Reporting |
+La formation m’a donné les bases techniques et méthodologiques pour mener un projet Data, de la préparation des données jusqu’à la restitution des résultats.
 
-J’utilise **SQL, Dataiku et Alteryx** dans mon poste actuel. J’ai pratiqué **Python, Power BI et KNIME** lors de ma formation et de mes projets Data. Je développe mes compétences en **Tableau**.
-
-## 🧭 Mes compétences transverses
-
-| Compétence | Ce que j’apporte |
+| Domaine | Compétences et outils travaillés |
 |:---|:---|
-| **Gestion de projet** | Cadrer un besoin, organiser les étapes, suivre l’avancement et échanger avec les parties prenantes |
-| **Compréhension métier** | Traduire les questions opérationnelles en indicateurs utiles |
-| **Qualité des données** | Vérifier la cohérence des sources et fiabiliser les résultats |
-| **Communication** | Expliquer les analyses de façon claire et accessible |
+| **Analyse et programmation** | Python, Pandas, Jupyter Notebook, analyse exploratoire |
+| **Bases de données** | SQL, modélisation et création d’indicateurs |
+| **Visualisation** | Power BI, tableaux de bord et présentation des résultats |
+| **Automatisation** | KNIME, préparation de données et workflows |
+| **Méthodes** | Statistiques, segmentation, ACP, clustering et recommandations |
 
-## 📂 Projets de formation
+### 📂 Projets de formation
 
 | Projet | Approche |
 |:---|:---|
@@ -48,11 +42,23 @@ J’utilise **SQL, Dataiku et Alteryx** dans mon poste actuel. J’ai pratiqué 
 | 🔄 **Workflows KNIME** | Préparation de données et automatisation |
 | 📊 **Tableaux de bord Power BI** | Visualisation et suivi d’activité |
 
-➡️ [Découvrir mon portfolio et mes réalisations](https://daviddufourdata.github.io/Portfolio/)
+➡️ [Découvrir les projets sur mon portfolio](https://daviddufourdata.github.io/Portfolio/)
 
-## ✨ Ce qui m’anime
+## 💼 02 · Ce que je développe aujourd’hui en banque privée
 
-Des projets Data construits **avec les équipes métier**, où l’analyse débouche sur des décisions concrètes. Je souhaite associer ma connaissance de la banque, mes compétences en analyse et mon goût du travail collectif.
+Dans mon nouveau métier de **Data Analyst**, je mets les acquis de la formation en pratique dans un environnement bancaire. J’approfondis les outils utilisés par l’équipe et ma capacité à piloter un sujet avec les utilisateurs métier.
+
+| Axe de développement | Mise en pratique |
+|:---|:---|
+| **SQL et données bancaires** | Exploiter les données, construire et vérifier des indicateurs |
+| **Dataiku et Alteryx** | Comprendre et faire évoluer des traitements de données |
+| **Tableau et reporting** | Développer la restitution visuelle des analyses |
+| **Gestion de projet** | Cadrer un besoin, organiser les étapes et suivre l’avancement |
+| **Relation avec les métiers** | Échanger avec les utilisateurs et rendre les résultats exploitables |
+
+## ✨ Ce que j’apporte
+
+Une **double lecture métier et Data** : comprendre les enjeux de la banque privée, poser les bonnes questions sur les données et expliquer les résultats avec clarté. J’apprécie particulièrement les projets menés en lien avec les équipes métier.
 
 ---
 
