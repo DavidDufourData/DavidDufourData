@@ -6,6 +6,8 @@
 
 **23 ans d’expérience bancaire** · De la connaissance métier à l’analyse de données
 
+🎯 **Mission actuelle : développer un reporting obligataire, projet stratégique pour la banque**
+
 [![Portfolio](https://img.shields.io/badge/Explorer_mon_portfolio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://daviddufourdata.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/Échanger_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-d-abb31b152/)
 
@@ -47,6 +49,14 @@ La formation m’a donné les bases techniques et méthodologiques pour mener un
 ## 💼 02 · Ce que je développe aujourd’hui en banque privée
 
 Dans mon nouveau métier de **Data Analyst**, je mets les acquis de la formation en pratique dans un environnement bancaire. J’approfondis les outils utilisés par l’équipe et ma capacité à piloter un sujet avec les utilisateurs métier.
+
+### 🎯 Mission actuelle · Développement d’un reporting obligataire
+
+Je participe à la conception d’un **reporting obligataire**, un projet **stratégique pour la banque**. Mon rôle est de partir des besoins des utilisateurs pour définir des indicateurs pertinents et construire une restitution opérationnelle, fiable et lisible.
+
+- **Cadrer** les attentes des utilisateurs et les usages du reporting
+- **Définir** les indicateurs et vérifier la qualité des données
+- **Construire et ajuster** le reporting avec les retours métier
 
 | Axe de développement | Mise en pratique |
 |:---|:---|
